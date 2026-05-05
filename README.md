@@ -1,4 +1,4 @@
-# -Server-Health-Monitor-API
+# Server-Health-Monitor-API
 
 A REST API built with Flask that monitors server health metrics — CPU, memory, and disk usage. Containerized with Docker and deployed via CI/CD pipeline.
 
